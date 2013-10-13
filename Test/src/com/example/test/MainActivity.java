@@ -20,7 +20,8 @@ public class MainActivity extends Activity {
 	}
 
 	public void newFunc() {
-		
+		int j = 0;
+		j++;
 	}
 	
 	public void secondFunc() {
