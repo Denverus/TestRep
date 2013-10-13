@@ -24,6 +24,7 @@ public class MainActivity extends Activity {
 	}
 	
 	public void secondFunc() {
-		
+		int i = 0;
+		i++;
 	}
 }
